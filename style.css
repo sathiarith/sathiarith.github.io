@@ -1,12 +1,13 @@
 h2 {
     color: rgb(0, 232, 15);
-    }
+}
 table {
     cellspacing="10";
+}
 body {
     background-color: rgb(205, 92, 92);
     background-image: url("csc106_background.png");
     color: white;
     <!--<div style="background-color:lightblue" align=center>
     </div>-->
-     }
+}
