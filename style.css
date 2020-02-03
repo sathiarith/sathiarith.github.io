@@ -4,6 +4,9 @@ h2 {
 table {
     cellspacing="25";
 }
+div {
+    max-width:500;
+}
 body {
     background-color: rgb(205, 92, 92);
     background-image: url("csc106_background.png");
