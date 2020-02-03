@@ -1,12 +1,13 @@
 h2 {
     color: rgb(0, 232, 15);
-    }  
+    }
+p {
+    opacity: 0.7;
+    }
 body {
     background-color: rgb(205, 92, 92);
-    opacity: 0.7;
     background-image: url("csc106_background.png");
     color: white;
-    <!--<div style="background-color:lightblue" align=center>-->
-  
-    </div>
+    <!--<div style="background-color:lightblue" align=center>
+    </div>-->
      }
