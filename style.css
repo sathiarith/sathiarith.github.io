@@ -5,7 +5,8 @@ table {
     cellspacing="25";
 }
 div {
-    max-width:500;
+    max-width:500px;
+    margin: auto;
 }
 body {
     background-color: rgb(205, 92, 92);
