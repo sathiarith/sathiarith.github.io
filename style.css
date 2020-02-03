@@ -1,10 +1,7 @@
 h2 {
     color: rgb(0, 232, 15);
     }
-p {
-    background-color: white;
-    opacity: 0.9;
-    }
+
 body {
     background-color: rgb(205, 92, 92);
     background-image: url("csc106_background.png");
