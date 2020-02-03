@@ -7,7 +7,12 @@ table {
 body {
     background-color: rgb(205, 92, 92);
     background-image: url("csc106_background.png");
+    height: 100%;
     color: white;
     <!--<div style="background-color:lightblue" align=center>
     </div>-->
+}
+#prior_ed {
+}
+#research {
 }
